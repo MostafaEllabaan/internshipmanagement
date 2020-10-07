@@ -30,6 +30,5 @@ mongoose.connect(
         console.log('connected to db')
 )
 
-
 //Listning the server
 app.listen(3000)
